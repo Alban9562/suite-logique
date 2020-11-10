@@ -1,0 +1,19 @@
+{
+  "name": "suite-logique",
+  "version": "0.1.0",
+  "description": "Permet de calculer des suite mathématique",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alban9562/suite-logique.git"
+  },
+  "author": "Alban9562",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alban9562/suite-logique/issues"
+  },
+  "homepage": "https://github.com/Alban9562/suite-logique#readme"
+}
